@@ -4,7 +4,7 @@
 
 # Tecnologias usadas neste projeto.
 
- <p style="display:flex;">Html5</p>
+ <p>Html5</p>
   <br>
 <p>Css3</p>
   <br>
