@@ -121,7 +121,13 @@ h1 {
 }
 
 footer {
-    margin-top: 20px;
+    margin-top: 6rem;
     color: #FFF;
     font-size: 13px;
+}
+
+@media (max-width:500px) {
+    .questionArea {
+        width: 80%;
+    }
 }
