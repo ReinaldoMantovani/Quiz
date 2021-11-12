@@ -4,9 +4,9 @@ Aplicação de quiz focado em praticar o javascript. Projeto divertido e muito b
 
 # Tecnologias usadas neste projeto.
 
-## Html5
-## Css3
-## Javascript
+### Html5
+### Css3
+### Javascript
 
 
 # Projeto em formato Desktop.
