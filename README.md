@@ -14,3 +14,8 @@
 # Projeto em formato Desktop.
 
 ![iQuiz-desktop](https://user-images.githubusercontent.com/62466598/141509329-6a3023e4-8fe4-4481-8e69-b694461522fb.png)
+
+
+# Projeto em formado mobile
+
+![Quiz-mobile](https://user-images.githubusercontent.com/62466598/141510863-88b56e66-c88f-44b8-bc1f-76ff8ec044f7.png)
