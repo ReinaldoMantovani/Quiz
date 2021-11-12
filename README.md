@@ -22,4 +22,6 @@
 
 
 
-###Link para acessar o projeto <a href="https://reinaldomantovani.github.io/Quiz/"></a>
+[I'm an inline-style link](https://reinaldomantovani.github.io/Quiz/)
+
+
