@@ -4,7 +4,7 @@
 
 # Tecnologias usadas neste projeto.
 
- <p>Html5</p>
+ <p style="color:blue;">Html5</p>
   <br>
 <p>Css3</p>
   <br>
