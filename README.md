@@ -1,6 +1,6 @@
 # Quiz
 <p> Aplicação de quiz focado em praticar o javascript. Projeto divertido e muito bom para colocar o conhecimento em pratica.
- Possui um sistemas de porcentagem, com forme as perguntas são respondidas até chegar ao 100% onde é calculada as perguntas respondidas e quantas dessas resposta estão corretas,     assim gerando uma porcentagem de certos.</p>
+ Possui um sistemas de porcentagem, com forme as perguntas são respondidas até chegar ao 100% onde é calculada as perguntas respondidas e quantas dessas resposta estão corretas,     assim gerando uma porcentagem de acertos.</p>
 
 # Tecnologias usadas neste projeto.
 
